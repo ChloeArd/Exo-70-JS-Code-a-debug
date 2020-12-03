@@ -21,8 +21,6 @@ else {
 
 
 alert("Penser à ne pas oublier...");
-
-
 alert ("certaines choses");
 
 
